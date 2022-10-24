@@ -1,7 +1,7 @@
 # Site settings
 title: Hussein Alshimary's portfolio
 description: Hello and welcome to my portfolio site! Here you will find a list of projects of mine as well as my self evaluation! 
-baseurl: "zephyh.github.io" # the subpath of your site, e.g. /blog
+#baseurl: "zephyh.github.io" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
