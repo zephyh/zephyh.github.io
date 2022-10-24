@@ -1,11 +1,11 @@
 # Site settings
-title: Hussein's portfolio
-description: Hello! My name full name is Hussein Alshimary, and this website is where you will find my projects that I finished and am currently working on!
-#baseurl: "zephyh.github.io" # the subpath of your site, e.g. /blog
+title: Hussein Alshimary's portfolio
+description: Hello and welcome to my portfolio site! Here you will find a list of projects of mine as well as my self evaluation! 
+baseurl: "zephyh.github.io" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Hussein
+username: Hussein Alshimary
 user_description: TODO
 user_title: Software Developer
 email: imhusseina@gmail.com
