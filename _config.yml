@@ -1,7 +1,7 @@
 # Site settings
 title: Hussein's portfolio
 description: Hello! My name full name is Hussein Alshimary, and this website is where you will find my projects that I finished and am currently working on!
-baseurl: "zephyh.github.io" # the subpath of your site, e.g. /blog
+#baseurl: "zephyh.github.io" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
