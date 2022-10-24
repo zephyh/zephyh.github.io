@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
           "nb_sides": 5
         },
         "image": {
-          "src": "img/githu",
+          "src": "img/portfolio_backgroud_color.png",
           "width": 100,
           "height": 100
         }
